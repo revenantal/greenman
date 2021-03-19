@@ -1,0 +1,19 @@
+{
+  "name": "greenman",
+  "version": "1.0.0",
+  "description": "A general bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revenantal/greenman.git"
+  },
+  "author": "Revenantal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revenantal/greenman/issues"
+  },
+  "homepage": "https://github.com/revenantal/greenman#readme"
+}
